@@ -1,5 +1,11 @@
+# build artifacts
+build
+
 # Prerequisites
 *.d
+
+# debugging
+*.dSYM
 
 # Compiled Object files
 *.slo
@@ -27,6 +33,7 @@
 *.lib
 
 # Executables
+snake
 *.exe
 *.out
 *.app
